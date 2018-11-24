@@ -9,3 +9,5 @@ AI based ChatBot(Android app with python backend and node-firebase connectivity)
 ### "mettle.py" is the server code processing all the data and performing all the textual operations, and then writing the data back to firebase database.
 
 ### The job of "pythonclient.py" is to take the message from "firebase2.js" which in turn is notified by firebase and  to hand over the code to "mettle.py" i.e. server.
+
+### Sentiment Analysis, Semantic Analysis and Context Sensitive Object Identification is important feature of the project 
